@@ -1,0 +1,10 @@
+<svg id="Component_41_1" data-name="Component 41 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="<?php echo $width; ?>" height="<?php echo $height; ?>" viewBox="0 0 8.499 8.499">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_79" data-name="Rectangle 79" width="<?php echo $width; ?>" height="<?php echo $height; ?>" fill="#479d70"/>
+    </clipPath>
+  </defs>
+  <g id="Group_42" data-name="Group 42" clip-path="url(#clip-path)">
+    <path id="Path_377" data-name="Path 377" d="M4.409,1.062a.731.731,0,0,1,1.005.149.731.731,0,0,1-.343.948.73.73,0,0,1-.994-.149.726.726,0,0,1,.331-.948M4.249,0a4.249,4.249,0,0,1,3,7.254,4.191,4.191,0,0,1-3,1.245A4.251,4.251,0,0,1,0,4.249a4.191,4.191,0,0,1,1.245-3A4.239,4.239,0,0,1,4.249,0M6.922,1.576A3.778,3.778,0,1,0,8.03,4.249,3.774,3.774,0,0,0,6.922,1.576M4.5,6.568,5,6.4a.179.179,0,0,1,.183.023.2.2,0,0,1,.1.149l.023.217-.034.023a5.353,5.353,0,0,1-1.736.754.36.36,0,0,1-.286-.045.284.284,0,0,1-.1-.274L3.735,3.77l-.354.114a.217.217,0,0,1-.263-.114L3,3.541l.057-.023a5.947,5.947,0,0,1,1.679-.674.331.331,0,0,1,.286.057.277.277,0,0,1,.091.274Z" transform="translate(0 0)" fill="#479d70" fill-rule="evenodd"/>
+  </g>
+</svg>
